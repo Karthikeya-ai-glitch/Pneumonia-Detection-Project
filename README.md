@@ -48,22 +48,6 @@ The model classifies X-rays as **Normal** or **Pneumonia**, assisting doctors wi
 
 ---
 
-## 📸 Sample Outputs  
-
-**Prediction Example**  
-<kbd>
-<img src="demo/sample/sample.png">
-</kbd>  
-
-[See More Results](demo/images/result.png)  
-
-**Confusion Matrix**  
-<kbd>
-<img src="demo/report/CM.png" width="800px" height="600px">
-</kbd>  
-
----
-
 ## 🔧 Installation & Usage  
 
 ### 1️⃣ Clone the Repository  
