@@ -15,7 +15,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 </pre>
 
 #### Code
-<pre>itHub)
+<pre>
 GitHub Link      : <a href=https://github.com/Karthikeya-ai-glitch/Pneumonia-Detection-Project>Detection of Pneumonia from Chest X-Ray Images</a>
 </pre>
 
