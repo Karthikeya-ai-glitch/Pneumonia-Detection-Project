@@ -1,6 +1,7 @@
 ## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
 
 <pre>
+Author             : Nari sai karthikeya 
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
 Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
